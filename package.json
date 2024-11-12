@@ -1,0 +1,16 @@
+{
+  "name": "gameday",
+  "version": "1.0.0",
+  "description": "QA Automation",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "gameday",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cypress": "^13.13.0",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "moment": "^2.30.1"
+  }
+}
